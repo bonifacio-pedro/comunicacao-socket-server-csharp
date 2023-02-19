@@ -1,0 +1,8 @@
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Servidor\Servidor\Servidor\bin\Debug\Servidor.exe.config
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Servidor\Servidor\Servidor\bin\Debug\Servidor.exe
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Servidor\Servidor\Servidor\bin\Debug\Servidor.pdb
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Servidor\Servidor\Servidor\obj\Debug\Servidor.csproj.AssemblyReference.cache
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Servidor\Servidor\Servidor\obj\Debug\Servidor.csproj.SuggestedBindingRedirects.cache
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Servidor\Servidor\Servidor\obj\Debug\Servidor.csproj.CoreCompileInputs.cache
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Servidor\Servidor\Servidor\obj\Debug\Servidor.exe
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Servidor\Servidor\Servidor\obj\Debug\Servidor.pdb

@@ -1,0 +1,17 @@
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\bin\Debug\net6.0-windows\Interface da aplicação.exe
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\bin\Debug\net6.0-windows\Interface da aplicação.deps.json
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\bin\Debug\net6.0-windows\Interface da aplicação.runtimeconfig.json
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\bin\Debug\net6.0-windows\Interface da aplicação.dll
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\bin\Debug\net6.0-windows\Interface da aplicação.pdb
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface da aplicação.csproj.AssemblyReference.cache
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface_da_aplicação.Form1.resources
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface da aplicação.csproj.GenerateResource.cache
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface da aplicação.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface da aplicação.AssemblyInfoInputs.cache
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface da aplicação.AssemblyInfo.cs
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface da aplicação.csproj.CoreCompileInputs.cache
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface da aplicação.dll
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\refint\Interface da aplicação.dll
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface da aplicação.pdb
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\Interface da aplicação.genruntimeconfig.cache
+D:\Pedro freela\Curso C#\Projetos pessoais\Comunicação socket\Desktop\Interface da aplicação\Interface da aplicação\obj\Debug\net6.0-windows\ref\Interface da aplicação.dll
